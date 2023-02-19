@@ -1,0 +1,9 @@
+---
+title: "My new post"
+author: "MEB"
+date: "2023-02-19"
+categories: [thoughts]
+image: "bioinfocartoon.jpg"
+---
+
+This is my first post!
